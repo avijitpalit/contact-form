@@ -1,0 +1,12 @@
+.mt-1{ margin-top: 1rem; }
+.mt-2{ margin-top: 2rem; }
+
+.tab-content{ margin-top: 1rem; }
+table td{ vertical-align: middle !important; }
+table th{ font-weight: 600 !important; }
+.button .dashicons{ vertical-align: middle; }
+.buttons{ display: flex; gap: 5px; align-items: center; }
+.form-table th, .form-table td{ padding-top: 8px; padding-bottom: 8px; }
+
+.fields-preview{ padding: 2rem; background: #fff; border: 1px solid #0001; }
+.field-preview label{ display: block; }
